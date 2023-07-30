@@ -7,7 +7,6 @@
 </head>
 
 <body>
-
     <?php 
 
 echo 56 + 45;
