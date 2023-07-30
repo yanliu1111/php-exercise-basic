@@ -33,6 +33,7 @@ $number1 = 12;
 $number2 = 24;
 
 echo $number1 * $number2;
+echo $number1 * $number2;
 
 
 
