@@ -1,21 +1,25 @@
 <?php include "functions.php"; ?>
 <?php include "includes/header.php";?>
 
-	<section class="content">
+<section class="content">
 
-	<aside class="col-xs-4">
+    <aside class="col-xs-4">
 
-	<?php Navigation();?>
-			
-			
-	</aside><!--SIDEBAR-->
+        <?php Navigation();?>
 
 
-<article class="main-content col-xs-8">
-		
+    </aside>
+    <!--SIDEBAR-->
 
 
-		<?php  
+    <article class="main-content col-xs-8">
+
+
+
+        <?php  
+
+			//This is function says hello
+			echo "<h1>Hello </h1>";
 
 
 		/* 
@@ -30,8 +34,9 @@
 
 		?>
 
-	
 
-		</article><!--MAIN CONTENT-->
 
-<?php include "includes/footer.php"; ?>
+    </article>
+    <!--MAIN CONTENT-->
+
+    <?php include "includes/footer.php"; ?>
