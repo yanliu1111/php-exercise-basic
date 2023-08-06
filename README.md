@@ -31,5 +31,8 @@
 - Learn Composer (PHP dependency Manager)
 - Learn to send emails - from PHP or using a third party Package
 - Real project
+<p>
 
-## I am learning, but slowly...
+## I am learning, but slowly... <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Turtle.png" alt="Turtle" width="50" height="50" />
+
+</p>
