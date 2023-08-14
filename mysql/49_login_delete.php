@@ -1,9 +1,9 @@
 <?php include "45_db.php"; ?>
 <?php include "45_function.php";?>
 <?php
-if (isset($_POST['submit'])){
+
 deleteRows();
-}
+
 ?>
 
 <!DOCTYPE html>
@@ -21,6 +21,7 @@ deleteRows();
 <body>
     <div class="container">
         <div class="col-sm-6">
+            <h2 class="text-center">DELETE USER</h2>
             <form action="49_login_delete.php" method="post">
                 <div class="form-group">
                     <label for="username">Username</label>

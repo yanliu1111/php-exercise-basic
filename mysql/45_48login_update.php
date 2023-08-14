@@ -1,9 +1,9 @@
 <?php include "45_db.php"; ?>
 <?php include "45_function.php";?>
 <?php
-if (isset($_POST['submit'])){
+
 updateTable();
-}
+
 ?>
 
 <!DOCTYPE html>
@@ -21,6 +21,7 @@ updateTable();
 <body>
     <div class="container">
         <div class="col-sm-6">
+            <h1 class="text-center">UPDATE USER</h1>
             <form action="45_48login_update.php" method="post">
                 <div class="form-group">
                     <label for="username">Username</label>
