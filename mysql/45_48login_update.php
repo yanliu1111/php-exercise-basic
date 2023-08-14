@@ -1,8 +1,9 @@
 <?php include "45_db.php"; ?>
 <?php include "45_function.php";?>
 <?php
-if (isset($_POST['submit'])){}
+if (isset($_POST['submit'])){
 updateTable();
+}
 ?>
 
 <!DOCTYPE html>
