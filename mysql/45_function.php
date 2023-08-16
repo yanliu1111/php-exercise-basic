@@ -19,6 +19,18 @@ if (isset($_POST['submit'])){
   
 }
 
+function readRows() {
+global $connection;
+$query = "SELECT * FROM users";
+$result = mysqli_query($connection, $query);
+if (!$result) {
+    die('Query FAILED' . mysqli_error($connection));
+}
+while($row = mysqli_fetch_assoc($result)) {
+    print_r($row);
+}
+}
+
 function showAllDate () {
 global $connection;
 $query = "SELECT * FROM users";
