@@ -10,7 +10,7 @@ createRows();
     <div class="container">
         <div class="col-sm-6">
             <h1 class="text-center">Create User</h1>
-            <form action="38_39_40_login.php" method="post">
+            <form action="43_login_create.php" method="post">
                 <div class="form-group">
                     <label for="username">Username</label>
                     <input type="text" name="username" class="form-control">
