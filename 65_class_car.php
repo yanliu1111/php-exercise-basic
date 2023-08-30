@@ -21,7 +21,7 @@ class Car {
 //     echo "Method exists";
 // } else {
 //     echo "Method does not exist";
-// }
+// }test
 $bmw = new Car();
 $bmw -> MoveWheels();
 $truck = new Car();
