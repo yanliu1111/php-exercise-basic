@@ -22,17 +22,11 @@
 - Super Globals in PHP
 - Sessions in PHP
 - Cookies in PHP
+- OOP
 - Learn to work with FILES
-- Custom search feature
-- Authentication
-- Learn to use jQuery + Bootstrap
-- RealTime Notifications with JS
-- Protect your credentials with .ENV
-- Learn Composer (PHP dependency Manager)
-- Learn to send emails - from PHP or using a third party Package
-- Real project
+
 <p>
 
-## I am learning, but slowly... <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Turtle.png" alt="Turtle" width="50" height="50" />
+### I am done this repo and start a new repo for CMS system project for advanced PHP learning, I will take my Learning Turtle to other repo 😁 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Turtle.png" alt="Turtle" width="50" height="50" />
 
 </p>
